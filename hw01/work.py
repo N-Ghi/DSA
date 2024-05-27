@@ -55,8 +55,8 @@ class UniqueInt:
                 output_file.write(f"{number}\n")
 
 if __name__ == "__main__":
-    input_folder = "/Users/ghyghi/Documents/VS Code/dsa/hw01/sample_inputs"
-    output_folder = "/Users/ghyghi/Documents/VS Code/dsa/hw01/sample_results"
+    input_folder = "/Users/ghyghi/Documents/VS Code/DSA/hw01/sample_inputs"
+    output_folder = "/Users/ghyghi/Documents/VS Code/DSA/hw01/sample_results"
     
     unique_int_processor = UniqueInt()
 
